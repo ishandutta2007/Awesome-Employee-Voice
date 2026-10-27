@@ -1,4 +1,14 @@
-# 🗣️ Awesome Employee Voice [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Voice/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Voice?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Voice/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Voice?style=flat-square&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Voice/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Voice?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishantutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+# 🗣️ Awesome Employee Voice
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Awesome Employee Voice Banner" width="100%">
@@ -13,7 +23,9 @@
   <a href="#-saashosted-platforms">🏢 SaaS Platforms</a> •
   <a href="#-open-source-github-projects">💻 Open-Source Projects</a> •
   <a href="#-key-selection-criteria-for-hr--people-analytics">🎯 Buyer Guide</a> •
-  <a href="#-how-to-contribute">🤝 How to Contribute</a>
+  <a href="#-how-to-contribute">🤝 How to Contribute</a> •
+  <a href="#-support--sponsorship">💖 Support</a> •
+  <a href="#-star-history">⭐ Star History</a>
 </p>
 
 ---
@@ -65,7 +77,7 @@ Open-source employee voice platforms and survey frameworks ranked in descending 
 | **[erxes](https://github.com/erxes/erxes)** | [![erxes Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers) | TypeScript, Node.js, GraphQL, React | GPL-3.0 / Fair-Code | Source-available experience management and operational operating system; offers custom feedback forms, employee communication widgets, automated survey workflows, and team sentiment tracking. |
 | **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** | [![LimeSurvey Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers) | PHP, JavaScript, MySQL, PostgreSQL | GPL-2.0 | Battle-tested, self-hostable survey software with tokenized anonymous response support, multi-lingual question management, branching logic, and comprehensive data export capabilities for organizational surveys. |
 | **[threesixty](https://github.com/thermondo/threesixty)** | [![threesixty Stars](https://img.shields.io/github/stars/thermondo/threesixty?style=social&color=white)](https://github.com/thermondo/threesixty/stargazers) | Python, Django, PostgreSQL | MIT | Open-source 360-degree peer and employee feedback system created by Thermondo; facilitates confidential review cycles, peer-to-peer appraisals, and constructive qualitative feedback aggregation. |
-| **[blik](https://github.com/thijsdezoete/blik)** | [![blik Stars](https://img.shields.io/github/stars/thijsdezoete/blik)](https://github.com/thijsdezoete/blik/stargazers) | TypeScript, React, Docker | MIT | Self-hosted anonymous 360 feedback platform; supports tokenized invite links, pre-configured role assessment templates, analytical radar charts, and anonymous peer response summaries. |
+| **[blik](https://github.com/thijsdezoete/blik)** | [![blik Stars](https://img.shields.io/github/stars/thijsdezoete/blik?style=social&color=white)](https://github.com/thijsdezoete/blik/stargazers) | TypeScript, React, Docker | MIT | Self-hosted anonymous 360 feedback platform; supports tokenized invite links, pre-configured role assessment templates, analytical radar charts, and anonymous peer response summaries. |
 | **[employee-survey-questions](https://github.com/joyouslabs/employee-survey-questions)** | [![employee-survey-questions Stars](https://img.shields.io/github/stars/joyouslabs/employee-survey-questions?style=social&color=white)](https://github.com/joyouslabs/employee-survey-questions/stargazers) | Markdown / Open Taxonomy | MIT | Scientifically validated open-source taxonomy and question dataset developed by Joyous Labs for employee experience, pulse surveys, psychological safety, and eNPS measurement. |
 | **[Check-Ins](https://github.com/objectcomputing/check-ins)** | [![Check-Ins Stars](https://img.shields.io/github/stars/objectcomputing/check-ins?style=social&color=white)](https://github.com/objectcomputing/check-ins/stargazers) | Java (Micronaut), React, GCP | Apache-2.0 | Full-featured organizational engagement and check-in framework; provides weekly team pulse surveys, peer recognition (kudos), 1:1 agenda tracking, and employee sentiment scoring. |
 | **[openpulsesurvey](https://github.com/BrainStation-23/openpulsesurvey)** | [![openpulsesurvey Stars](https://img.shields.io/github/stars/BrainStation-23/openpulsesurvey?style=social&color=white)](https://github.com/BrainStation-23/openpulsesurvey/stargazers) | TypeScript, React, Supabase | MIT | Modern pulse survey tool focused on employee voice; allows automated scheduling of recurring pulse checks, anonymous submissions, and executive analytics dashboards. |
@@ -98,7 +110,26 @@ Contributions are warmly welcomed! Help expand this community knowledge base:
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create** a branch: `git checkout -b feature/new-employee-voice-tool`.
 3. 📝 **Add/Update** the tool in `README.md` following the tabular format (include specific pricing, free tier limits, star badges, and stack details).
-4. 🚀 **Commit & Push**: Submit a pull request with a concise summary of the addition.
+4. 📚 Check out more curated collections at [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+5. 🚀 **Commit & Push**: Submit a pull request with a concise summary of the addition.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated directory helpful for your team, organization, or research, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork & share** with your People Ops, HR tech, and engineering colleagues.
+- ☕ **Buy me a coffee / Sponsor**: Support continuous curation and open-source updates via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for championing transparent employee feedback and open workplace analytics! 🙏
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Employee-Voice&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Employee-Voice&type=date&legend=top-left)
 
 ---
 
