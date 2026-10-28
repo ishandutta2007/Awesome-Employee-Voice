@@ -2,7 +2,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Employee-Voice/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Voice?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Voice/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Voice?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Voice/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Voice?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Voice/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Employee-Voice?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishantutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,9 +69,9 @@ The table below lists category-leading commercial employee voice and engagement 
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source employee voice platforms and survey frameworks ranked in descending order by **GitHub Stars**:
+Open-source employee voice platforms and survey frameworks ranked in descending order by **GitHub_Stars**:
 
-| Project & Repo | Stars Badge | Tech Stack | License | Description & Architecture |
+| Project & Repo | Stars_Badge | Tech Stack | License | Description & Architecture |
 | :--- | :--- | :--- | :--- | :--- |
 | **[formbricks](https://github.com/formbricks/formbricks)** | [![formbricks Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) | TypeScript, Next.js, Tailwind, Prisma | AGPL-3.0 | Next-generation open-source survey and experience management suite designed as a privacy-first alternative to Qualtrics; features in-app pulse surveys, webhooks, user segmentation, and eNPS score calculation. |
 | **[erxes](https://github.com/erxes/erxes)** | [![erxes Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers) | TypeScript, Node.js, GraphQL, React | GPL-3.0 / Fair-Code | Source-available experience management and operational operating system; offers custom feedback forms, employee communication widgets, automated survey workflows, and team sentiment tracking. |
@@ -109,7 +109,7 @@ Contributions are warmly welcomed! Help expand this community knowledge base:
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create** a branch: `git checkout -b feature/new-employee-voice-tool`.
-3. 📝 **Add/Update** the tool in `README.md` following the tabular format (include specific pricing, free tier limits, star badges, and stack details).
+3. 📝 **Add/Update** the tool in `README.md` following the tabular format (include specific pricing, free tier limits, Stars_Badges, and stack details).
 4. 📚 Check out more curated collections at [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 5. 🚀 **Commit & Push**: Submit a pull request with a concise summary of the addition.
 
@@ -143,3 +143,12 @@ Thank you for championing transparent employee feedback and open workplace analy
 <p align="center">
   <sub>Built for People Leaders, Chief HR Officers, People Analytics Engineers, and Workplace Experience Specialists.</sub>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Employee-Voice&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Employee-Voice_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Employee-Voice_growth.svg">
+  </picture>
+</a>
